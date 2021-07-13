@@ -16,12 +16,8 @@ export default function Home() {
   const githubUser = "AlessandroSampaio";
 
   const pessoasFavoritas = [
-    'juunegreiros',
-    'omariosouto',
-    'peas',
-    'rafaballerini',
-    'marcobrunodev',
-    'felipefialho'
+    'Diomar159481',
+    'omariosouto'
   ]
   return (
     <>
